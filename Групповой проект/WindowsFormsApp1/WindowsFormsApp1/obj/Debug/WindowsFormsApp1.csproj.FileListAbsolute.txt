@@ -1,0 +1,20 @@
+C:\ФИТ\Лабораторные работы\Лабораторные работы по ОПИ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\ФИТ\Лабораторные работы\Лабораторные работы по ОПИ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\ФИТ\Лабораторные работы\Лабораторные работы по ОПИ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\ФИТ\Лабораторные работы\Лабораторные работы по ОПИ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\ФИТ\Лабораторные работы\Лабораторные работы по ОПИ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\ФИТ\Лабораторные работы\Лабораторные работы по ОПИ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\ФИТ\Лабораторные работы\Лабораторные работы по ОПИ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\ФИТ\Лабораторные работы\Лабораторные работы по ОПИ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\ФИТ\Лабораторные работы\Лабораторные работы по ОПИ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\ФИТ\Лабораторные работы\Лабораторные работы по ОПИ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Shifr.resources
+C:\ФИТ\Лабораторные работы\Лабораторные работы по ОПИ\Групповой проект\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\ФИТ\Лабораторные работы\Лабораторные работы по ОПИ\Групповой проект\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\ФИТ\Лабораторные работы\Лабораторные работы по ОПИ\Групповой проект\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\ФИТ\Лабораторные работы\Лабораторные работы по ОПИ\Групповой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\ФИТ\Лабораторные работы\Лабораторные работы по ОПИ\Групповой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Shifr.resources
+C:\ФИТ\Лабораторные работы\Лабораторные работы по ОПИ\Групповой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\ФИТ\Лабораторные работы\Лабораторные работы по ОПИ\Групповой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\ФИТ\Лабораторные работы\Лабораторные работы по ОПИ\Групповой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\ФИТ\Лабораторные работы\Лабораторные работы по ОПИ\Групповой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\ФИТ\Лабораторные работы\Лабораторные работы по ОПИ\Групповой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
