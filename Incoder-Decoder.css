@@ -1,0 +1,74 @@
+body{
+    background-color: grey;
+    height: 100%;
+    font-size: 25px;
+}
+h2{
+    text-align: center;
+    background-image: url(group_img.png);
+    background-repeat: no-repeat;
+    background-position: 780px;
+}
+p{
+    margin-left: 10px;
+}
+ol li{
+    margin-bottom: 50px;
+}
+ol li::marker{
+    font-weight: bold;
+}
+.back{
+    background: white;
+    margin-left: 100px;
+    width: 1300px;
+    height: 1300px;
+    margin-top: 272px;
+}
+.hello{
+    line-height: 150%;
+}
+.logo{
+    width: 1500px;
+    height: 263px;
+    position: absolute;
+    top: 0px;
+    border: 5px solid black;
+    left:5px;
+}
+.logo img{
+    width: 1500px;
+}
+.dow_doc{
+    width: 500px;
+    height: 200px;
+    margin-left: 30px;
+    border-radius: 30px;
+    background: url(download_img.png) rgb(186, 184, 184);
+    background-repeat: no-repeat;
+    background-position: 320px;
+    font-size: 25px;
+    text-align: left;
+}
+.dow_doc.two{
+        margin-left: 200px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+.dow.one{
+    margin-right: 350px;
+    margin-left: 80px;
+}
+.dow{
+    display: inline-block;
+    font-weight: bold;
+}
+span{
+    display: none;
+}
+li.f:hover span, li.s:hover span, li.t:hover span, li.fo:hover span, li.fi:hover span{
+    display: inline-block;
+}

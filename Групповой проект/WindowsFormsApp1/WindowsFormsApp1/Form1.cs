@@ -392,7 +392,7 @@ namespace WindowsFormsApp1
                 Deshifrator.Enabled = true;
                 this.Clean_input.Enabled = true;
             }
-            else if(this.Input.Text == "")
+            else if (this.Input.Text == "")
             {
                 Shifrator.Enabled = false;
                 Deshifrator.Enabled = false;
