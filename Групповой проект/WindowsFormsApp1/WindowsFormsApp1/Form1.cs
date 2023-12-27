@@ -42,7 +42,17 @@ namespace WindowsFormsApp1
             }
             if (Shifr2.Checked)
             {
-                
+                string inp = this.Input.Text;
+                long l = inp.Length;
+                string result = "";
+                const int key = 10;
+                for (int i = 0; i < l; i++)
+                {
+                    result += (char)((inp[i]) ^ key);
+                }
+                this.Output.Text = result;
+
+
             }
             if (Shifr3.Checked)
             {
@@ -204,7 +214,17 @@ namespace WindowsFormsApp1
             }
             if (Shifr2.Checked)
             {
-                
+                string inp = this.Input.Text;
+                long l = inp.Length;
+                string result = "";
+                const int key = 10;
+                for (int i = 0; i < l; i++)
+                {
+                    result += (char)((inp[i]) ^ key);
+                }
+                this.Output.Text = result;
+
+
             }
             if (Shifr3.Checked)
             {

@@ -38,3 +38,13 @@ C:\проект 12\Encoder-Decoder\Групповой проект\WindowsFormsA
 C:\проект 12\Encoder-Decoder\Групповой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\проект 12\Encoder-Decoder\Групповой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\проект 12\Encoder-Decoder\Групповой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+X:\Encoder-Decoder\Групповой проект\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+X:\Encoder-Decoder\Групповой проект\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+X:\Encoder-Decoder\Групповой проект\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+X:\Encoder-Decoder\Групповой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+X:\Encoder-Decoder\Групповой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Shifr.resources
+X:\Encoder-Decoder\Групповой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+X:\Encoder-Decoder\Групповой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+X:\Encoder-Decoder\Групповой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+X:\Encoder-Decoder\Групповой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+X:\Encoder-Decoder\Групповой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
