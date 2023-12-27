@@ -79,7 +79,50 @@ namespace WindowsFormsApp1
             }
             if (Shifr4.Checked)
             {
-                
+                string largeLatinLetter = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+                string smallLatinLetter = "abcdefghijklmnopqrstuvwxyz";
+                string largeRussianLetter = "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ";
+                string smallRussianLetter = "абвгдеёжзийклмнопрстуфхцчшщъыьэюя";
+                string inp = this.Input.Text;
+                int j = 0;
+                string outp = "";
+                foreach (char let in inp)
+                {
+                    j = largeLatinLetter.IndexOf(let);
+                    if (j != -1)
+                    {
+                        outp += (largeLatinLetter[(j + 5) % 26]);
+                    }
+                    else
+                    {
+                        j = smallLatinLetter.IndexOf(let);
+                        if (j != -1)
+                        {
+                            outp += (smallLatinLetter[(j + 5) % 26]);
+                        }
+                        else
+                        {
+                            j = largeRussianLetter.IndexOf(let);
+                            if (j != -1)
+                            {
+                                outp += (largeRussianLetter[(j + 5) % 33]);
+                            }
+                            else
+                            {
+                                j = smallRussianLetter.IndexOf(let);
+                                if (j != -1)
+                                {
+                                    outp += (smallRussianLetter[(j + 5) % 33]);
+                                }
+                                else
+                                {
+                                    outp += let;
+                                }
+                            }
+                        }
+                    }
+                }
+                this.Output.Text = outp;
             }
             if (Shifr5.Checked)
             {
@@ -225,7 +268,50 @@ namespace WindowsFormsApp1
             }
             if (Shifr4.Checked)
             {
-                
+                string largeLatinLetter = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+                string smallLatinLetter = "abcdefghijklmnopqrstuvwxyz";
+                string largeRussianLetter = "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ";
+                string smallRussianLetter = "абвгдеёжзийклмнопрстуфхцчшщъыьэюя";
+                string inp = this.Input.Text;
+                int j = 0;
+                string outp = "";
+                foreach (char let in inp)
+                {
+                    j = largeLatinLetter.IndexOf(let);
+                    if (j != -1)
+                    {
+                        outp += (largeLatinLetter[(j - 5 + 26) % 26]);
+                    }
+                    else
+                    {
+                        j = smallLatinLetter.IndexOf(let);
+                        if (j != -1)
+                        {
+                            outp += (smallLatinLetter[(j - 5 + 26) % 26]);
+                        }
+                        else
+                        {
+                            j = largeRussianLetter.IndexOf(let);
+                            if (j != -1)
+                            {
+                                outp += (largeRussianLetter[(j - 5 + 33) % 33]);
+                            }
+                            else
+                            {
+                                j = smallRussianLetter.IndexOf(let);
+                                if (j != -1)
+                                {
+                                    outp += (smallRussianLetter[(j - 5 + 33) % 33]);
+                                }
+                                else
+                                {
+                                    outp += let;
+                                }
+                            }
+                        }
+                    }
+                }
+                this.Output.Text = outp;
             }
             if (Shifr5.Checked)
             {
